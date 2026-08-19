@@ -40,10 +40,12 @@ Resolução do desafio **Blog preview card** do [Frontend Mentor](https://www.fr
 
 3. Abra o arquivo index.html em seu navegador.
 
+---
+
 👤 Autora
 
 Desenvolvido por Caline Nepomoceno:
 
-GitHub: @acali10
+- GitHub: @acali10
 
-Frontend Mentor: @acali10
+- Frontend Mentor: @acali10
