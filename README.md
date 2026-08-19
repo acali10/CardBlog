@@ -1,10 +1,10 @@
 # CardBlog
 
-Desafio do Frontend Mentor
+Desafio 2 do Frontend Mentor
 
 ![preview](assets/screenshot.png)
 
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https://acali10.github.io/CardBlog/)
 
 ## Tecnologias
 
