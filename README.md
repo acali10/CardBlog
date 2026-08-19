@@ -29,15 +29,19 @@ Resolução do desafio **Blog preview card** do [Frontend Mentor](https://www.fr
 ## 💻 Como rodar o projeto localmente
 
 1. Clone o repositório:
+
    ```bash
    git clone [https://github.com/acali10/CardBlog.git](https://github.com/acali10/CardBlog.git)
-Acesse a pasta do projeto:
 
-Bash
-cd CardBlog
-Abra o arquivo index.html em seu navegador.
+2. Acesse a pasta do projeto:
+
+    ```bash
+    cd CardBlog
+
+3. Abra o arquivo index.html em seu navegador.
 
 👤 Autora
+
 Desenvolvido por Caline Nepomoceno:
 
 GitHub: @acali10
